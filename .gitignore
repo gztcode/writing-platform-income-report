@@ -1,0 +1,12 @@
+# 系统与工具
+.DS_Store
+Thumbs.db
+
+# Office 临时文件
+~$*
+*.tmp
+
+# WorkBuddy 项目数据与构建中间产物
+.workbuddy-ai/
+.*.ref/
+.preview/
